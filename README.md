@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sankhars
-- 👀 I’m interested in python,sql,ML algorithms
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on New Startups /ideas 
-- 📫 How to reach me https://www.linkedin.com/in/shankhar1/
+- 👀 I’m interested in Java,python,sql,Microservices
+- 🌱 Data Analytics Graduate,Ex Software Developer
+- 💞️ I’m looking for wonderful creation in software development Experience in a company 
+- 📫 How to reach me https://www.linkedin.com/in/shankhar-sakthivel/
 
 <!---
 sankhars/sankhars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
