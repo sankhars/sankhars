@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sankhars
 - 👀 I’m interested in Java,python,sql,Microservices
-- 🌱 Data Analytics Graduate,Ex Software Developer
+- 🌱 Masters in Royal Hollloway university of London, Software Developer
 - 💞️ I’m looking for wonderful creation in software development Experience in a company 
 - 📫 How to reach me https://www.linkedin.com/in/shankhar-sakthivel/
 
